@@ -14,6 +14,7 @@ Default Software View:
 - Create and hide image layers
 - Export and Load images (png, jpg, ppm)
 - Save multiple layers together (ppm)
+- Undo Previous Actions
 - Image Transformation (Blur, Sharpen, Mosaic, Downscale)
 - Color Transformation (Grayscale, Sepia)
 - Generate Image Patterns (Checkerboard)
